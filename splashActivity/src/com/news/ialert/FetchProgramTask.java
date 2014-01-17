@@ -29,6 +29,7 @@ public class FetchProgramTask extends AsyncTask<String, Void, String>{
     }
      
     @Override
+   //take activity in the backgroud
     protected String doInBackground(String... params) {
         if(params == null) return null;
          
