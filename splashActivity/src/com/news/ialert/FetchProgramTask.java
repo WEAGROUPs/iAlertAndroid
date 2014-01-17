@@ -47,6 +47,7 @@ public class FetchProgramTask extends AsyncTask<String, Void, String>{
             // get response
             HttpEntity entity = response.getEntity();
              
+            
             if(entity == null) {
                 msg = "No response from server";
                 return null;       
