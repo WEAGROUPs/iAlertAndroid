@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:paddingTop="20dp"
+        android:text="@string/tv"
+        android:textSize="30dp" 
+        android:background="#686363"
+        android:textColor="#ffffff"/>
+
+    <uk.co.jasonfry.android.tools.ui.SwipeView
+        android:id="@+id/swipe_view"
+        android:layout_width="fill_parent"
+        android:layout_height="150dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_weight="0.71"
+        android:background="#CCCCCC"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp"
+        android:paddingTop="8dp" >
+    </uk.co.jasonfry.android.tools.ui.SwipeView>
+
+    <uk.co.jasonfry.android.tools.ui.PageControl
+        android:id="@+id/page_control"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+    </uk.co.jasonfry.android.tools.ui.PageControl>
+
+</LinearLayout>

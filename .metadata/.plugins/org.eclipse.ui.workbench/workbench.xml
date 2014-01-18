@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="28" version="2.0">
+<workbenchAdvisor/>
+<window height="760" maximized="true" width="1024" x="494" y="101">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="250"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="122" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="adt.actionSet.avdManager" itemType="typeToolBarContribution" x="61" y="22"/>
+<coolItem id="adt.actionSet.lint" itemType="typeToolBarContribution" x="53" y="22"/>
+<coolItem id="adt.actionSet.wizards" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="129" y="22"/>
+<coolItem id="org.eclipse.jdt.ui.JavaElementCreationActionSet" itemType="typeToolBarContribution" x="76" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="76" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="107" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="61" y="22"/>
+<coolItem id="org.eclipse.debug.ui.launch.toolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.debug.ui.main.toolbar" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="190" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="com.android.ide.eclipse.editors.CommonXmlEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1389658777080" focus="true" label="Workspace - Java">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+<part id="20"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="reportFragment.java" partName="reportFragment.java" path="F:/My app/splashActivity/src/com/news/ialert/reportFragment.java" title="reportFragment.java" tooltip="splashActivity/src/com/news/ialert/reportFragment.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/splashActivity/src/com/news/ialert/reportFragment.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="13" selectionOffset="18063" selectionTopPixel="6930"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="home.xml" partName="home.xml" path="F:/My app/splashActivity/res/layout/home.xml" title="home.xml" tooltip="splashActivity/res/layout/home.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/splashActivity/res/layout/home.xml"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MainActivity.java" partName="MainActivity.java" path="F:/My app/splashActivity/src/com/news/ialert/MainActivity.java" title="MainActivity.java" tooltip="splashActivity/src/com/news/ialert/MainActivity.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/splashActivity/src/com/news/ialert/MainActivity.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="8952" selectionTopPixel="3239"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="activity_main.xml" partName="activity_main.xml" path="F:/My app/splashActivity/res/menu/activity_main.xml" title="activity_main.xml" tooltip="splashActivity/res/menu/activity_main.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/splashActivity/res/menu/activity_main.xml"/>
+</editor>
+<editor activePart="true" focus="true" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="main.xml" partName="main.xml" path="F:/My app/splashActivity/res/menu/main.xml" title="main.xml" tooltip="splashActivity/res/menu/main.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/splashActivity/res/menu/main.xml"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Bottommenu.java" partName="Bottommenu.java" path="F:/My app/splashActivity/src/com/news/ialert/Bottommenu.java" title="Bottommenu.java" tooltip="splashActivity/src/com/news/ialert/Bottommenu.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/splashActivity/src/com/news/ialert/Bottommenu.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="125" selectionOffset="1052" selectionTopPixel="368"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="settings.xml" partName="settings.xml" path="F:/My app/splashActivity/res/layout/settings.xml" title="settings.xml" tooltip="splashActivity/res/layout/settings.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/splashActivity/res/layout/settings.xml"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="settingsFragment.java" partName="settingsFragment.java" path="F:/My app/splashActivity/src/com/news/ialert/settingsFragment.java" title="settingsFragment.java" tooltip="splashActivity/src/com/news/ialert/settingsFragment.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/splashActivity/src/com/news/ialert/settingsFragment.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="492" selectionTopPixel="0"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="splashActivity Manifest" path="F:/My app/splashActivity/AndroidManifest.xml" title="splashActivity Manifest" tooltip="splashActivity/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/splashActivity/AndroidManifest.xml"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="video.xml" partName="video.xml" path="F:/My app/splashActivity/res/layout/video.xml" title="video.xml" tooltip="splashActivity/res/layout/video.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/splashActivity/res/layout/video.xml"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="splashActivity.java" partName="splashActivity.java" path="F:/My app/splashActivity/src/com/news/ialert/splashActivity.java" title="splashActivity.java" tooltip="splashActivity/src/com/news/ialert/splashActivity.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/splashActivity/src/com/news/ialert/splashActivity.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="757" selectionTopPixel="351"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="notificationService.java" partName="notificationService.java" path="F:/My app/splashActivity/src/com/news/ialert/notificationService.java" title="notificationService.java" tooltip="splashActivity/src/com/news/ialert/notificationService.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/splashActivity/src/com/news/ialert/notificationService.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="11652" selectionTopPixel="5143"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="preference.java" partName="preference.java" path="F:/My app/splashActivity/src/com/news/ialert/preference.java" title="preference.java" tooltip="splashActivity/src/com/news/ialert/preference.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/splashActivity/src/com/news/ialert/preference.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="main_pref.xml" partName="main_pref.xml" path="F:/My app/splashActivity/res/layout/main_pref.xml" title="main_pref.xml" tooltip="splashActivity/res/layout/main_pref.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/splashActivity/res/layout/main_pref.xml"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UpdatesAdapter.java" partName="UpdatesAdapter.java" path="F:/My app/splashActivity/src/com/news/ialert/UpdatesAdapter.java" title="UpdatesAdapter.java" tooltip="splashActivity/src/com/news/ialert/UpdatesAdapter.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/splashActivity/src/com/news/ialert/UpdatesAdapter.java"/>
+<editorState selectionHorizontalPixel="105" selectionLength="0" selectionOffset="2503" selectionTopPixel="590"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="aboutFragment.java" partName="aboutFragment.java" path="F:/My app/splashActivity/src/com/news/ialert/aboutFragment.java" title="aboutFragment.java" tooltip="splashActivity/src/com/news/ialert/aboutFragment.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/splashActivity/src/com/news/ialert/aboutFragment.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="10370" selectionTopPixel="4996"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="JSONParser.java" partName="JSONParser.java" path="F:/My app/splashActivity/src/com/news/ialert/JSONParser.java" title="JSONParser.java" tooltip="splashActivity/src/com/news/ialert/JSONParser.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/splashActivity/src/com/news/ialert/JSONParser.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2254" selectionTopPixel="528"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="pupdatesFragment.java" partName="pupdatesFragment.java" path="F:/My app/splashActivity/src/com/news/ialert/pupdatesFragment.java" title="pupdatesFragment.java" tooltip="splashActivity/src/com/news/ialert/pupdatesFragment.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/splashActivity/src/com/news/ialert/pupdatesFragment.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="60"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="agentnews.java" partName="agentnews.java" path="F:/My app/splashActivity/src/com/news/ialert/agentnews.java" title="agentnews.java" tooltip="splashActivity/src/com/news/ialert/agentnews.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/splashActivity/src/com/news/ialert/agentnews.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2096" selectionTopPixel="1516"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="about_us.xml" partName="about_us.xml" path="F:/My app/splashActivity/res/layout/about_us.xml" title="about_us.xml" tooltip="splashActivity/res/layout/about_us.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/splashActivity/res/layout/about_us.xml"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="about.xml" partName="about.xml" path="F:/My app/splashActivity/res/layout/about.xml" title="about.xml" tooltip="splashActivity/res/layout/about.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/splashActivity/res/layout/about.xml"/>
+</editor>
+</editors>
+<views>
+<view id="com.android.ide.eclipse.ddms.views.DeviceView" partName="Devices">
+<viewState/>
+</view>
+<view id="com.android.ide.eclipse.ddms.views.ThreadView" partName="Threads">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+<view id="com.android.ide.eclipse.ddms.views.HeapView" partName="Heap"/>
+<view id="com.android.ide.eclipse.ddms.views.LogCatView" partName="LogCat">
+<viewState/>
+</view>
+<view id="com.android.ide.eclipse.ddms.views.FileExplorerView" partName="File Explorer"/>
+<view id="com.android.ide.eclipse.ddms.views.NetworkStatsView" partName="Network Statistics"/>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<expanded>
+<category IMemento.internal.id="Warnings (100 of 199 items)"/>
+</expanded>
+<columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.jdt.ui.PackageExplorer" partName="Package Explorer">
+<viewState group_libraries="1" layout="2" linkWithEditor="0" rootMode="1" workingSetName="">
+<customFilters userDefinedPatternsEnabled="false">
+<xmlDefinedFilters>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.StaticsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.FieldsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter" isEnabled="true"/>
+</xmlDefinedFilters>
+</customFilters>
+</viewState>
+</view>
+<view id="com.android.ide.eclipse.ddms.views.EmulatorControlView" partName="Emulator Control"/>
+<view id="org.eclipse.jdt.ui.SourceView" partName="Declaration"/>
+<view id="com.android.ide.eclipse.ddms.views.AllocTrackerView" partName="Allocation Tracker"/>
+<view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc"/>
+</views>
+<perspectives activePart="com.android.ide.eclipse.editors.CommonXmlEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="0" fixed="0" version="0.016">
+<descriptor class="com.android.ide.eclipse.ddms.Perspective" id="com.android.ide.eclipse.ddms.Perspective" label="DDMS"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<show_view_action id="com.android.ide.eclipse.ddms.views.DeviceView"/>
+<show_view_action id="com.android.ide.eclipse.ddms.views.FileExplorerView"/>
+<show_view_action id="com.android.ide.eclipse.ddms.views.HeapView"/>
+<show_view_action id="com.android.ide.eclipse.ddms.views.AllocTrackerView"/>
+<show_view_action id="com.android.ide.eclipse.ddms.views.LogCatView"/>
+<show_view_action id="com.android.ide.eclipse.ddms.views.ThreadView"/>
+<show_view_action id="com.android.ide.eclipse.ddms.views.NetworkStatsView"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ui.views.BookmarkView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ProgressView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<perspective_action id="org.eclipse.ui.resourcePerspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.debug.ui.commands.RunToLine"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="com.android.ide.eclipse.ddms.views.LogCatView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="com.android.ide.eclipse.ddms.views.DeviceView"/>
+<view id="com.android.ide.eclipse.ddms.views.ThreadView"/>
+<view id="com.android.ide.eclipse.ddms.views.HeapView"/>
+<view id="com.android.ide.eclipse.ddms.views.AllocTrackerView"/>
+<view id="com.android.ide.eclipse.ddms.views.NetworkStatsView"/>
+<view id="com.android.ide.eclipse.ddms.views.FileExplorerView"/>
+<view id="com.android.ide.eclipse.ddms.views.EmulatorControlView"/>
+<fastViewBars/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="devices">&#x0A;<folder activePageID="com.android.ide.eclipse.ddms.views.DeviceView" appearance="2" expanded="2">&#x0A;<page content="com.android.ide.eclipse.ddms.views.DeviceView" label="Devices"/>
+<page content="com.android.ide.eclipse.ddms.views.DeviceView:*" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="750" ratioRight="250" relationship="2" relative="devices">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="logcat" ratio="0.79937303" ratioLeft="510" ratioRight="128" relationship="4" relative="devices">&#x0A;<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">&#x0A;<page content="com.android.ide.eclipse.ddms.views.LogCatView" label="LogCat"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="com.android.ide.eclipse.ddms.views.LogCatView:*" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.3" ratioLeft="300" ratioRight="700" relationship="2" relative="devices"/>
+<info folder="true" part="ddms-detail" ratio="0.5" ratioLeft="350" ratioRight="350" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="com.android.ide.eclipse.ddms.views.ThreadView" appearance="2" expanded="2">&#x0A;<page content="com.android.ide.eclipse.ddms.views.ThreadView" label="Threads"/>
+<page content="com.android.ide.eclipse.ddms.views.HeapView" label="Heap"/>
+<page content="com.android.ide.eclipse.ddms.views.AllocTrackerView" label="Allocation Tracker"/>
+<page content="com.android.ide.eclipse.ddms.views.NetworkStatsView" label="Network Statistics"/>
+<page content="com.android.ide.eclipse.ddms.views.FileExplorerView" label="File Explorer"/>
+<page content="com.android.ide.eclipse.ddms.views.EmulatorControlView" label="Emulator Control"/>
+<page content="com.android.ide.eclipse.ddms.views.ThreadView:*" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jdt.internal.ui.JavaPerspectiveFactory" id="org.eclipse.jdt.ui.JavaPerspective" label="Java"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="adt.actionSet.wizards"/>
+<alwaysOnActionSet id="adt.actionSet.avdManager"/>
+<alwaysOnActionSet id="adt.actionSet.lint"/>
+<alwaysOnActionSet id="adt.actionSet.refactorings"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.junit.JUnitActionSet"/>
+<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
+<show_view_action id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<show_view_action id="org.eclipse.jdt.ui.SourceView"/>
+<show_view_action id="org.eclipse.jdt.ui.JavadocView"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ui.views.ProgressView"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.ui.texteditor.TemplatesView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewEnumCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewAnnotationCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSnippetFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewJavaWorkingSetWizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<new_wizard_action id="com.android.ide.eclipse.adt.project.NewProjectWizard"/>
+<new_wizard_action id="com.android.ide.eclipse.editors.wizards.NewXmlFileWizard"/>
+<new_wizard_action id="org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="com.android.ide.eclipse.ddms.Perspective"/>
+<perspective_action id="com.android.ide.eclipse.hierarchyviewer.PixelPerfectPespective"/>
+<perspective_action id="com.android.ide.eclipse.hierarchyviewer.TreeViewPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.debug.ui.commands.RunToLine"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.jdt.ui.JavadocView"/>
+<view id="org.eclipse.jdt.ui.SourceView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="com.android.ide.eclipse.ddms.views.LogCatView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="left">
+<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.junit.ResultView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1e4f66a" ratio="0.75" ratioLeft="750" ratioRight="250" relationship="2" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.19700551" ratioLeft="250" ratioRight="1019" relationship="2" relative="left"/>
+<info folder="true" part="bottom" ratio="0.9185868" ratioLeft="598" ratioRight="53" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
+<page content="org.eclipse.jdt.ui.SourceView" label="Declaration"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="com.android.ide.eclipse.ddms.views.LogCatView" label="LogCat"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="right" ratio="0.8956693" ratioLeft="910" ratioRight="106" relationship="2" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.ui.texteditor.TemplatesView" label="LabelNotFound"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/splashActivity/res/menu/main.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/splashActivity/src/com/news/ialert/MainActivity.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/splashActivity/src/com/news/ialert/notificationService.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/splashActivity/src/com/news/ialert/preference.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/splashActivity/res/layout/main_pref.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="" path="/splashActivity/res/layout/main_pref.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/splashActivity/src/com/news/ialert/reportFragment.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/splashActivity/src/com/news/ialert/UpdatesAdapter.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/splashActivity/src/com/news/ialert/aboutFragment.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/splashActivity/src/com/news/ialert/JSONParser.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/splashActivity/src/com/news/ialert/reportFragment.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/splashActivity/src/com/news/ialert/pupdatesFragment.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/splashActivity/src/com/news/ialert/agentnews.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/splashActivity/res/layout/about_us.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/splashActivity/res/layout/about.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/splashActivity/src/com/news/ialert/MainActivity.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/splashActivity/res/menu/main.xml"/>
+</editors>
+<item historyLabel="MainActivity.java" index="1">
+<position info="not_deleted" x="8822" y="14"/>
+</item>
+<item historyLabel="main.xml" index="0"/>
+<item historyLabel="MainActivity.java" index="1">
+<position info="not_deleted" x="5366" y="0"/>
+</item>
+<item historyLabel="notificationService.java" index="2">
+<position info="not_deleted" x="11652" y="0"/>
+</item>
+<item historyLabel="MainActivity.java" index="1">
+<position info="not_deleted" x="8960" y="0"/>
+</item>
+<item historyLabel="main.xml" index="0"/>
+<item historyLabel="MainActivity.java" index="1">
+<position info="not_deleted" x="8960" y="0"/>
+</item>
+<item historyLabel="preference.java" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="main_pref.xml" index="4">
+<position info="not_deleted" x="1626" y="0"/>
+</item>
+<item historyLabel="main_pref.xml" index="5">
+<position info="not_deleted" x="867" y="0"/>
+</item>
+<item historyLabel="reportFragment.java" index="6">
+<position info="not_deleted" x="7472" y="0"/>
+</item>
+<item historyLabel="UpdatesAdapter.java" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="aboutFragment.java" index="8">
+<position info="not_deleted" x="1122" y="0"/>
+</item>
+<item historyLabel="JSONParser.java" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="reportFragment.java" index="10">
+<position info="not_deleted" x="7472" y="0"/>
+</item>
+<item historyLabel="reportFragment.java" index="10">
+<position info="not_deleted" x="46397" y="19"/>
+</item>
+<item historyLabel="JSONParser.java" index="9">
+<position info="not_deleted" x="730" y="0"/>
+</item>
+<item historyLabel="reportFragment.java" index="10">
+<position info="not_deleted" x="50734" y="0"/>
+</item>
+<item historyLabel="JSONParser.java" index="9">
+<position info="not_deleted" x="1040" y="12"/>
+</item>
+<item historyLabel="reportFragment.java" index="10">
+<position info="not_deleted" x="41779" y="69"/>
+</item>
+<item historyLabel="JSONParser.java" index="9">
+<position info="not_deleted" x="1028" y="10"/>
+</item>
+<item historyLabel="reportFragment.java" index="10">
+<position info="not_deleted" x="41779" y="69"/>
+</item>
+<item historyLabel="JSONParser.java" index="9">
+<position info="not_deleted" x="987" y="0"/>
+</item>
+<item historyLabel="reportFragment.java" index="10">
+<position info="not_deleted" x="41779" y="69"/>
+</item>
+<item historyLabel="JSONParser.java" index="9">
+<position info="not_deleted" x="987" y="0"/>
+</item>
+<item historyLabel="reportFragment.java" index="10">
+<position info="not_deleted" x="41947" y="41"/>
+</item>
+<item historyLabel="JSONParser.java" index="9">
+<position info="not_deleted" x="1028" y="10"/>
+</item>
+<item historyLabel="reportFragment.java" index="10">
+<position info="not_deleted" x="32882" y="6"/>
+</item>
+<item historyLabel="JSONParser.java" index="9">
+<position info="not_deleted" x="1040" y="13"/>
+</item>
+<item historyLabel="reportFragment.java" index="10">
+<position info="not_deleted" x="32860" y="0"/>
+</item>
+<item historyLabel="JSONParser.java" index="9">
+<position info="not_deleted" x="1028" y="8"/>
+</item>
+<item historyLabel="reportFragment.java" index="10">
+<position info="not_deleted" x="32881" y="6"/>
+</item>
+<item historyLabel="JSONParser.java" index="9">
+<position info="not_deleted" x="1028" y="8"/>
+</item>
+<item historyLabel="reportFragment.java" index="10">
+<position info="not_deleted" x="32881" y="6"/>
+</item>
+<item historyLabel="JSONParser.java" index="9">
+<position info="not_deleted" x="1028" y="8"/>
+</item>
+<item historyLabel="pupdatesFragment.java" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="reportFragment.java" index="10">
+<position info="not_deleted" x="24991" y="5"/>
+</item>
+<item historyLabel="JSONParser.java" index="9">
+<position info="not_deleted" x="1040" y="13"/>
+</item>
+<item historyLabel="reportFragment.java" index="10">
+<position info="not_deleted" x="24991" y="5"/>
+</item>
+<item historyLabel="JSONParser.java" index="9">
+<position info="not_deleted" x="1028" y="8"/>
+</item>
+<item historyLabel="reportFragment.java" index="10">
+<position info="not_deleted" x="18063" y="13"/>
+</item>
+<item historyLabel="JSONParser.java" index="9">
+<position info="not_deleted" x="1781" y="56"/>
+</item>
+<item historyLabel="pupdatesFragment.java" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="JSONParser.java" index="9">
+<position info="not_deleted" x="2254" y="0"/>
+</item>
+<item historyLabel="aboutFragment.java" index="8">
+<position info="not_deleted" x="10370" y="0"/>
+</item>
+<item historyLabel="agentnews.java" index="12">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="about_us.xml" index="13"/>
+<item historyLabel="about.xml" index="14"/>
+<item historyLabel="MainActivity.java" index="15">
+<position info="not_deleted" x="8952" y="0"/>
+</item>
+<item active="true" historyLabel="main.xml" index="16"/>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.HeapStatus"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="settings.png" tooltip="splashActivity/res/drawable-hdpi/settings.png">
+<persistable path="/splashActivity/res/drawable-hdpi/settings.png"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="ic_menu_help.png" tooltip="splashActivity/res/drawable-hdpi/ic_menu_help.png">
+<persistable path="/splashActivity/res/drawable-hdpi/ic_menu_help.png"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="about.xml" tooltip="splashActivity/res/layout/about.xml">
+<persistable path="/splashActivity/res/layout/about.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="about_us.xml" tooltip="splashActivity/res/layout/about_us.xml">
+<persistable path="/splashActivity/res/layout/about_us.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="agentnews.java" tooltip="splashActivity/src/com/news/ialert/agentnews.java">
+<persistable path="/splashActivity/src/com/news/ialert/agentnews.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="pupdatesFragment.java" tooltip="splashActivity/src/com/news/ialert/pupdatesFragment.java">
+<persistable path="/splashActivity/src/com/news/ialert/pupdatesFragment.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="JSONParser.java" tooltip="splashActivity/src/com/news/ialert/JSONParser.java">
+<persistable path="/splashActivity/src/com/news/ialert/JSONParser.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="aboutFragment.java" tooltip="splashActivity/src/com/news/ialert/aboutFragment.java">
+<persistable path="/splashActivity/src/com/news/ialert/aboutFragment.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UpdatesAdapter.java" tooltip="splashActivity/src/com/news/ialert/UpdatesAdapter.java">
+<persistable path="/splashActivity/src/com/news/ialert/UpdatesAdapter.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="main_pref.xml" tooltip="splashActivity/res/layout/main_pref.xml">
+<persistable path="/splashActivity/res/layout/main_pref.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="preference.java" tooltip="splashActivity/src/com/news/ialert/preference.java">
+<persistable path="/splashActivity/src/com/news/ialert/preference.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="lauch.png" tooltip="splashActivity/res/drawable-hdpi/lauch.png">
+<persistable path="/splashActivity/res/drawable-hdpi/lauch.png"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="notificationService.java" tooltip="splashActivity/src/com/news/ialert/notificationService.java">
+<persistable path="/splashActivity/src/com/news/ialert/notificationService.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="ntv.png" tooltip="splashActivity/res/drawable-hdpi/ntv.png">
+<persistable path="/splashActivity/res/drawable-hdpi/ntv.png"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="splashActivity.java" tooltip="splashActivity/src/com/news/ialert/splashActivity.java">
+<persistable path="/splashActivity/src/com/news/ialert/splashActivity.java"/>
+</file>
+</mruList>
+</workbench>

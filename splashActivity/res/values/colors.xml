@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="color" name="common_signin_btn_dark_text_default">@*android:color/white</item>
+    <item type="color" name="common_signin_btn_dark_text_pressed">@*android:color/white</item>
+    <color name="common_signin_btn_dark_text_disabled">#ffaaaaaa</color>
+    <item type="color" name="common_signin_btn_dark_text_focused">@*android:color/white</item>
+    <color name="common_signin_btn_light_text_default">#ff737373</color>
+    <item type="color" name="common_signin_btn_light_text_pressed">@*android:color/white</item>
+    <color name="common_signin_btn_light_text_disabled">#ffaaaaaa</color>
+    <color name="common_signin_btn_light_text_focused">#ff737373</color>
+    <color name="common_signin_btn_default_background">#ffdd4b39</color>
+    <color name="common_action_bar_splitter">#ffd2d2d2</color>
+    <color name="abs__background_holo_dark">#ff000000</color>
+    <color name="abs__background_holo_light">#fff3f3f3</color>
+    <item type="color" name="abs__bright_foreground_holo_dark">@color/abs__background_holo_light</item>
+    <item type="color" name="abs__bright_foreground_holo_light">@color/abs__background_holo_dark</item>
+    <color name="abs__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="abs__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <item type="color" name="abs__bright_foreground_inverse_holo_dark">@color/abs__bright_foreground_holo_light</item>
+    <item type="color" name="abs__bright_foreground_inverse_holo_light">@color/abs__bright_foreground_holo_dark</item>
+    <color name="abs__holo_blue_light">#ff33b5e5</color>
+    <color name="background">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="light_gray">#ffdddddd</color>
+    <color name="dark_gray">#ff6f6f6f</color>
+    <color name="listview_large_bold">#ff000000</color>
+    <color name="conversations_text_gray">#ff7b7b7b</color>
+    <color name="divider_gray">#ff8b0000</color>
+    <color name="group_divider_gray">#ffc0c4c0</color>
+    <color name="light_blue">#ff95cbe9</color>
+    <color name="conversation_background">#ffe8ecf3</color>
+    <color name="contact_phone_type">#80000000</color>
+    <color name="light_blue_conversationrow">#fff2f6ff</color>
+    <color name="white">#ffffffff</color>
+    <color name="emoji_flipper_translucent_black">#99000000</color>
+    <color name="quick_action_translucent_black">#bb2b2b2b</color>
+    <color name="emoji_group_selected_black">#bb121212</color>
+    <color name="emoji_group_translucent_black">#dd3b3b3b</color>
+    <color name="emoji_popup_header">#ff2b2b2b</color>
+    <color name="emoji_popup_body">#ff363636</color>
+    <color name="notice_text">#ff517cd3</color>
+    <color name="group_chat_info_gray">#fff7f7f7</color>
+    <color name="group_chat_info_owner">#ffe8e8e8</color>
+    <color name="divider_row_lower">#ffcdcdcd</color>
+    <color name="divider_row_upper">#ffffffff</color>
+    <color name="red">#ff8b0000</color>
+    <color name="yellow">#ffefd700</color>
+    <color name="green">#ff008000</color>
+    <color name="countrypicker_blue">#ff4169e1</color>
+    <color name="row_1">#fff6f6f6</color>
+    <color name="row_2">#ffe5e5e5</color>
+    <color name="description_gray">#ff333333</color>
+    <color name="search_text_highlight">#ff32afff</color>
+    <color name="list_item_selected">#660099cc</color>
+    <color name="full_screen_footer">#ff596169</color>
+    <color name="section_text">#ff33b5e5</color>
+    <color name="button_light_gray">#ffe9e9e9</color>
+    <color name="gallery_cell">#ff333333</color>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+	 
+	<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	 
+	    <PreferenceCategory
+	        android:title="User Settings"
+	        android:key="user_setting">
+	         
+	        <CheckBoxPreference
+	            android:key="updates"
+	            android:summary="Enable or disable News Updates"
+	            android:title="Enable updates"
+	            android:defaultValue="true"
+	        />
+         
+	        <ListPreference
+	            android:key="radius"
+	            android:title="Define Radius"
+	            android:summary="Define the radius of news you want to receive"
+	            android:defaultValue="10km"
+	            android:entries="@array/radius"
+	            android:entryValues="@array/radiusValues"
+	           
+	        />   
+	             
+	    </PreferenceCategory>
+	 
+	    <PreferenceCategory
+	        android:title="User Information"
+	        android:key="user_infomation">
+	 
+	        <EditTextPreference
+	            android:key="names"
+	            android:title="User Names"
+	            android:summary="Enter your names here"
+	            android:dialogTitle="User Name"
+	            android:dialogMessage="Please enter Name"   
+	            android:defaultValue="**********" />
+	        
+	        <EditTextPreference
+	            android:key="number"
+	            android:title="User Contact"
+	            android:summary="Enter your Phone number"
+	            android:dialogTitle="User Contact"
+	            android:dialogMessage="Please enter your phone number"   
+	            android:defaultValue="........." />
+	      
+	 
+	    </PreferenceCategory>
+	     
+	</PreferenceScreen>

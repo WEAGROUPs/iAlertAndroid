@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ialert</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+     <string name="title">i-Alert Mobile App</string>
+     <string name="alert">i-Alert</string>
+      <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    	<string name="error">No Internet Access Available</string>
+    	  <string name="category_prompt">Select Category</string>	
+    	    <string name="delete_chat_tip">Tap and hold on a News update for details</string>
+    	<string name="tv">Tell Your Story Easily</string>	
+    	<string name="info">Report What is Happening in your Area any time</string>
+<string name="help">
+<li>Report News around you</li>\n\n
+<li>By touching on the application icon</li>\n\n
+<li>Different options are provided such as reporting</li>\n\n
+<li>Get upto date verified news by NTV team</li>\n\n
+<li>Know NTV Program updates on the Go</li>\n\n
+<li>Now you can add photos, videos and audio to your news</li>\n
+</string>
+    	
+    	
+    	<string-array name="radius">
+	        <item name="10">10 km</item>
+	        <item name="20">20 km</item>
+	        <item name="30">30 km</item>
+	        <item name="40">40 km</item>
+	        <item name="50">50 km</item>
+	    </string-array>
+	     
+	    <string-array name="radiusValues">
+	        <item name="10">10</item>
+	        <item name="20">20</item>
+	        <item name="30">30</item>
+	        <item name="40">40</item>
+	        <item name="50">50</item>
+	    </string-array>
+</resources>
